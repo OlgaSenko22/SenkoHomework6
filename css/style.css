@@ -1,0 +1,39 @@
+*{
+    box-sizing: border-box;
+}
+body {
+    background-color: #E5E5E5;
+}
+.main {
+    width: 720px;
+    text-align: center;
+    margin-left: 320px;
+    margin-top: 70px;
+}
+.container1 {
+    width: 200px;
+    height: 246px;
+    background-color: #E0E0E0;
+    display: inline-block;
+    margin-right: 30px;
+    margin-bottom: 30px;
+    vertical-align: top;
+}
+.photo1 {
+    width: 130px;
+    height: 150px;
+    border-radius: 3px;
+}
+.one-card {
+    text-align: center;
+}
+.position-text {
+    text-align: center;
+}
+h3 {
+    margin-top: 4px;
+    margin-bottom: 4px;
+}
+p {
+    margin: 0px;
+}
