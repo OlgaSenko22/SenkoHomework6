@@ -5,14 +5,13 @@ body {
     background-color: #E5E5E5;
 }
 .main {
-    width: 720px;
+    width: calc(100% - 600px);
     text-align: center;
     margin-left: 320px;
     margin-top: 70px;
 }
 .container1 {
-    width: 200px;
-    height: 246px;
+    width: calc(100% - 530px);
     background-color: #E0E0E0;
     display: inline-block;
     margin-right: 30px;
@@ -36,4 +35,12 @@ h3 {
 }
 p {
     margin: 0px;
+    min-height: 55px;
+}
+.container3 {
+    width: calc(100% - 530px);
+    background-color: #E0E0E0;
+    display: inline-block;
+    margin-bottom: 30px;
+    vertical-align: top;
 }
